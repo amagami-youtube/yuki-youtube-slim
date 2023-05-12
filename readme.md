@@ -1,4 +1,4 @@
-<a href="https://github.com/amagami-youtube/yuki-youtube-slim">
+<a href="https://dashboard.render.com/blueprint/new?repo=https://github.com/amagami-youtube/yuki-youtube-slim">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
